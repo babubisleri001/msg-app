@@ -12,6 +12,7 @@
   "dependencies": {
     "axios": "^1.8.4",
     "lucide-react": "^0.485.0",
+    "msg-app": "file:..",
     "nodemon": "^3.1.9",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
