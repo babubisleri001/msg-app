@@ -5,7 +5,7 @@ const AuthImagePattern = ({ image, title, subtitle }) => {
           {image}
         </div>
         <div className="max-w-md">
-          <h2 className="text-2xl font-bold mb-4">{title}</h2>
+          <h2 className="text-2xl font-bold mb-3">{title}</h2>
           <p className="text-base-content/60">{subtitle}</p>
         </div>
       </div>

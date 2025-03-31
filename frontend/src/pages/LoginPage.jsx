@@ -111,7 +111,7 @@ const LoginPage = () => {
 
       {/* Right Side - Image/Pattern */}
       <AuthImagePattern
-      image={<img src="/telegram.jpg" alt="Welcome" className="mb-6 w-64" />}
+        image={<img src="/telegram.jpg" alt="Welcome" className="mb-6 w-64" />}
         title={"Welcome back!"}
         subtitle={"Sign in to continue your conversations and catch up with your messages."}
       />
