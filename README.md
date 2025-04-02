@@ -46,8 +46,28 @@
    git clone https://github.com/babubisleri001/msg-app.git
    cd msg-app
 2. Install dependencies
+    ```bash
     # Frontend
     cd client && npm install
 
     # Backend 
     cd ../server && npm install
+
+3.  Configure environment variables
+      ```bash
+      # Frontend (.env in /client)
+      VITE_API_URL=http://localhost:5000
+      # Backend (.env in /server)
+      MONGODB_URI=your_mongodb_atlas_uri
+      JWT_SECRET=your_jwt_secret
+      PORT=5000
+
+4. Run the application
+      ```bash
+      # Frontend (from /client)
+      npm run dev
+
+      # Backend (from /server)
+      npm start
+
+   
