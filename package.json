@@ -4,10 +4,13 @@
   "description": "Simple chat application in building stage",
   "main": "index.js",
   "scripts": {
-    "build":"npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend" ,
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
     "start": "npm run start --prefix backend"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^6.2.4"
+  }
 }
