@@ -4,9 +4,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/babubisleri001/msg-app?style=for-the-badge)](https://github.com/babubisleri001/msg-app/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
-<div align="center">
-  <img src="https://i.imgur.com/JqYe5Zn.gif" width="800" alt="Cipher Demo"/>
-</div>
 
 ## 🚀 Features
 
