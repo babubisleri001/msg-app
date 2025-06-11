@@ -140,9 +140,9 @@ Open `http://localhost:5173` in your web browser.
 
 ## Author
 
-Akash Deep \
-Email: contact.akashdeep023@gmail.com \
-LinkedIn : https://www.linkedin.com/in/akashdeep023/
+Shubham Mishra \
+Email: mishrashubham10639@gmail.com \
+LinkedIn : https://www.linkedin.com/in/shubham-mishra-75340a24b/
 
 ## Images
 **Profile**
